@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  padding: 10px;
+  color: white;
+  font-family: "itim", cursive;
+  background-color: #0e2f2f;
+}
+
+h2 {
+  font-size: xx-large;
+  color: rgb(236, 145, 8);
+  border-radius: 10px;
+  margin-right: 50px;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+  margin-left: 20px;
+}
+button {
+  background-color: rgb(241, 150, 39);
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(83, 83, 82);
+}
+#date {
+  margin-left: 10px;
+  padding-right: 10px;
+  background-color: white;
+  color: black;
+  border-radius: 10px;
+}
+#date:hover {
+  background-color: grey;
+}
+#reset {
+  margin-left: 25px;
+}
+body {
+  margin-left: 500px;
+}
+
